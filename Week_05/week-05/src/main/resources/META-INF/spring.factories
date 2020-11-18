@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.hyuk.homework.class10.homework04.SchoolConfugiration
